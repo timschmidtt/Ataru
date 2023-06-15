@@ -1,0 +1,8 @@
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/rest/store/StoreResource.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/rest/user/UserResource.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/util/extensions.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/util/CryptoHelper.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/util/IdGenerator.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/AtaruApplication.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/model/user/User.kt
+/Users/schmidtt/dev/TSM-Solutions/projects/Test/Ataru/src/main/kotlin/de/tsm/ataru/model/store/Store.kt

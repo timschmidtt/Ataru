@@ -1,0 +1,17 @@
+server:
+  port: 8000
+
+spring:
+  main:
+    web-application-type: servlet
+  datasource:
+    url: jdbc:mysql://localhost:3308/ataru
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        format_sql: true
